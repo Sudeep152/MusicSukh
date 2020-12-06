@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1001163922148",
+    "project_id": "musicsukh-dca27",
+    "storage_bucket": "musicsukh-dca27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001163922148:android:76fd563ba69df7cea7eaf1",
+        "android_client_info": {
+          "package_name": "com.sudeep.musicsukh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001163922148-rmp537e2egkrh3tut4a3jsvuh9hlce81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudeep.musicsukh",
+            "certificate_hash": "80ae58a969863afea19ac0222714ed823c44b8ca"
+          }
+        },
+        {
+          "client_id": "1001163922148-t5fhbgrv56fgm8f5e9q4d3d1f8fsvdbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1T1zHcOsaIL9kIzWw2AVqkGHDcrAkMxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001163922148-t5fhbgrv56fgm8f5e9q4d3d1f8fsvdbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
